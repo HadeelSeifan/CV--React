@@ -41,9 +41,7 @@ function About() {
             continuous learning. Through a professional Front-End Development course, I gained strong
             practical experience in HTML, CSS, JavaScript, and Bootstrap, building responsive and userfocused interfaces.
             Currently, I am enhancing my technical skills by learning React.js and converting my
-            previous projects into React-based applications. This transition is strengthening my ability
-            to create modern, scalable, and maintainable user interfaces that meet current industry
-            standards</p>
+            previous projects into React-based applications. </p>
           <a href='#contact' className='btn btn-primary'>Lets talk</a>
         </div>
       </div>
